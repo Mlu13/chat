@@ -1,3 +1,8 @@
+#Maggie Lu
+#CS 336 - Computer Network
+#Final Project - Messages Broadcasting
+#May 09 2018
+
 import pika
 import sys
 
