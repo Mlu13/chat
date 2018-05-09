@@ -1,7 +1,7 @@
 import pika
 import sys
 
-url = "amqp://tafzfptx:lRrZ2PMfADB1Rq7zUHIs7J4dzkpTXQ1x@otter.rmq.cloudamqp.com/tafzfptx" ;
+url = "YourOwnUrl" ;
 params = pika.URLParameters(url);
 connection = pika.BlockingConnection(params)
 
